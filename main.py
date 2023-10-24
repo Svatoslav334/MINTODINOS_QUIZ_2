@@ -9,7 +9,7 @@ from aiogram import Bot, Dispatcher, types, executor
 logging.basicConfig(level=logging.INFO)
 
 # Создаем экземпляр бота
-bot = Bot(token="6029099768:AAFseZUTFPOHR7J-aP5x-pNUjzsNxCInAao")
+bot = Bot(token="6029099768:AAFseZUTFPOHo")
 dispatcher = Dispatcher(bot)
 
 good = 0
